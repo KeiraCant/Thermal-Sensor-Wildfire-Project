@@ -59,6 +59,3 @@ The Monte Carlo framework runs multiple simulation iterations to:
 - Assess fire detection rates across different scenarios
 
 
-## Related Projects
-
-- [[RGBD Camera Testing](../Wildfire-RGBD-Camera-Test/) ](https://github.com/KeiraCant/Wildfire-RGBD-Camera-Test-.git)- Companion project for depth-based obstacle avoidance
