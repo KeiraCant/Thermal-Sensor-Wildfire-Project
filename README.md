@@ -61,4 +61,4 @@ The Monte Carlo framework runs multiple simulation iterations to:
 
 ## Related Projects
 
-- [RGBD Camera Testing](../Wildfire-RGBD-Camera-Test/) - Companion project for depth-based obstacle avoidance
+- [[RGBD Camera Testing](../Wildfire-RGBD-Camera-Test/) ](https://github.com/KeiraCant/Wildfire-RGBD-Camera-Test-.git)- Companion project for depth-based obstacle avoidance
